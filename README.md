@@ -16,4 +16,4 @@ openssl x509 -text -noout -in cer.pem
 ```
 # Link video demo
 https://youtu.be/jJutZ5BQJrU  
-![image](https://github.com/TranThiKimHuynh/X_509_Demo/assets/95559644/4c1345b4-a499-427e-8b88-955b777c1099)
+![image](https://github.com/TranThiKimHuynh/X_509_Demo/assets/95559644/ffc3363b-1106-4170-a4e4-643945b9371b)
